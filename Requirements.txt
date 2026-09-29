@@ -1,0 +1,30 @@
+
+REQUIREMENTS:
+=============
+
+Python 3.x
+Tkinter
+Python standard library
+
+This project uses standard python labraries , so no external pip packages required
+
+RUNNING FROM SOURCE:
+===================
+
+Run:
+
+	py tkinter_calculator.py
+	or
+	python tkinter_calculator.py
+
+BUILDING/RUNNING THE EXE:
+=========================
+
+The application can also be distributed as a Windows executable.
+
+No Python installation is required to run the packaged executable.
+
+AUTHOR
+======
+
+Madhavi Latha Vaddepuri
